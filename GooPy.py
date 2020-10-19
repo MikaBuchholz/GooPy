@@ -33,7 +33,6 @@ class GooPy():
                 else:
                     dict[keyWord] = 0
 
-
         return dict
 
 if __name__ == "__main__":
